@@ -1,0 +1,2 @@
+Перед тем, как использовать убедись,
+что у тебя стоит Python 3+ и cx_freeze(cmd>> pip3 install cx_freeze)
