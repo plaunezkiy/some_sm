@@ -1,2 +1,5 @@
-Ïåðåä òåì, êàê èñïîëüçîâàòü óáåäèñü,
-÷òî ó òåáÿ ñòîèò Python 3+ è cx_freeze(cmd>> pip3 install cx_freeze)
+ÐŸÐµÑ€ÐµÐ´ Ñ‚ÐµÐ¼, ÐºÐ°Ðº Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑƒÐ±ÐµÐ´Ð¸ÑÑŒ,
+Ñ‡Ñ‚Ð¾ Ñƒ Ñ‚ÐµÐ±Ñ ÑÑ‚Ð¾Ð¸Ñ‚ Python 3+ Ð¸ cx_freeze(cmd>> pip3 install cx_freeze)
+
+Before using make sure to install 
+Python 3+ and cx_freeze as well(cmd>> pip3 install install cx_freeze)
